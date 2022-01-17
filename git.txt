@@ -1,0 +1,9 @@
+github commands:
+
+*git add filename
+*git add f1 f2
+*git add .
+*git add *
+*git status(red col,green col)
+*git commit -m "message"
+*git log
