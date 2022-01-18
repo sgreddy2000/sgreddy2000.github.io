@@ -1,0 +1,24 @@
+github commands:
+
+*git add filename
+*git init
+*git add f1 f2
+*git add .
+*git add *
+*git status(red col,green col)
+*git commit -m "message"
+*git log
+
+
+*************************
+*ls
+
+*Error:
+
+dell@DESKTOP-RTIDMNP MINGW64 ~/Desktop/web dev
+$ git status
+fatal: not a git repository (or any of the parent directories): .git
+
+touch:file creation in linux
+git remote add origin url(github)
+git push -u origin master
